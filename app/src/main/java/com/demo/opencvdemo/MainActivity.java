@@ -26,6 +26,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+// This is Michael's project
 public class MainActivity extends AppCompatActivity {
 
 
